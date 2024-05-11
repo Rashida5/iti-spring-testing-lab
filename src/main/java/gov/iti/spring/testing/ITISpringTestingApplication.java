@@ -18,6 +18,7 @@ import java.time.LocalDateTime;
 public class ITISpringTestingApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(ITISpringTestingApplication.class, args);
     }
 
